@@ -1,1 +1,3 @@
 Hello Wordl !!!
+take input from user
+add the value
